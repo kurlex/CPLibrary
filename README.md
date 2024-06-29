@@ -2,7 +2,7 @@
 
 ## Graph
 
-### Tarjan's Algorithm
+### Tarjan's Algorithm [Code](./graph/Tarjan.cpp)
 
 1. **Cycle Merging**:
    Merge cycles into a single vertex.
@@ -17,6 +17,6 @@
 
 ## String
 
-### Manacher's Algorithm
+### Manacher's Algorithm [Code](./string/Manacher.cpp)
 
 Manacher's Algorithm is an efficient algorithm to find all sub-palindromes of a string in linear time \(O(N)\).

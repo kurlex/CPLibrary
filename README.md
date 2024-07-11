@@ -20,3 +20,7 @@
 ### [Manacher's Algorithm](./string/Manacher.cpp)
 
 Manacher's Algorithm is an efficient algorithm to find all sub-palindromes of a string in linear time \(O(N)\).
+
+## Math
+
+### TO DO
